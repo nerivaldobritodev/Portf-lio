@@ -30,7 +30,7 @@ Atualmente desenvolvendo soluções utilizando:
 
 🌐 Contato
 
-LinkedIn: linkedin.com/in/nerivaldobritodev
+LinkedIn: https://www.linkedin.com/in/nerivaldo-brito-dev
 
 Portfólio: https://alunodevclub25.com
 
